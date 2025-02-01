@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "id": "cbd5",
+      "task": "Clean the house",
+      "date": "2025-02-03",
+      "completed": false
+    },
+    {
+      "id": "449c",
+      "task": "Piga sheree",
+      "date": "2025-02-03",
+      "completed": false
+    },
+    {
+      "id": "cbe6",
+      "task": "Go Shopping ",
+      "date": "2025-02-01",
+      "completed": true
+    },
+    {
+      "id": "1969",
+      "task": "Go to Church",
+      "date": "2025-02-02",
+      "completed": true
+    },
+    {
+      "id": "e3a3",
+      "task": "Have some good sex",
+      "date": "2025-02-03",
+      "completed": false
+    },
+    {
+      "id": "213c",
+      "task": "Watch movies",
+      "date": "2025-02-03",
+      "completed": false
+    },
+    {
+      "id": "0411",
+      "task": "Fix bug in code",
+      "date": "2025-02-03",
+      "completed": false
+    },
+    {
+      "id": "c794",
+      "task": "Do laundry",
+      "date": "2025-02-04",
+      "completed": false
+    },
+    {
+      "id": "08d4",
+      "task": "Clean the house",
+      "date": "2025-02-03",
+      "completed": false
+    }
+  ]
+}
