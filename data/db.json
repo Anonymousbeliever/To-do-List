@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": "cbd5",
-      "task": "Clean the house",
-      "date": "2025-02-03",
-      "completed": false
-    },
-    {
       "id": "449c",
       "task": "Piga sheree",
       "date": "2025-02-03",

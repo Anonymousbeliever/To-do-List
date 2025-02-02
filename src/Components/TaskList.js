@@ -20,7 +20,7 @@ const TaskList = () => {
             });
     };
 
-    // Run fetchTasks when the component mounts
+    // Run fetchTasks
     useEffect(() => {
         fetchTasks();
     }, []);
@@ -84,7 +84,6 @@ const TaskList = () => {
                 </Button>
             </Form.Group>
 
-
             <ListGroup className="mt-3">
                 {tasks.length === 0 ? (  //checks if the task array is empty
                     <p className="text-center">No tasks found.</p> //if no task exixts, it displys no tasks found
@@ -96,7 +95,6 @@ const TaskList = () => {
                             <span>
                                 {t.task} - {t.date}
                             </span>
-
 
                             <div>
                                 <Button variant={t.completed ? "secondary" : "success"} size="sm" //If task is completed (t.completed === true) the Button is gray (secondary) and Shows "Undo".

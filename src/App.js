@@ -13,7 +13,7 @@ function App() {
         <Route exact path="/" component={TaskList} />
         <Route path="/create" component={CreateTask} />
       </Switch>
-      <ToastContainer position="top-right" autoClose={2000} />
+      <ToastContainer/>
     </Router>
   );
 }
